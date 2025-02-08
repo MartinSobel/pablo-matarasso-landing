@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+}
+
+
+
+.section__items {
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.imgs_carousel {
+    filter:brightness(50%);
+
+}
+
+.carousel-caption {
+    width: 70%;
+    height: 70%;
+}
+
+.titulos__items {
+    margin: 2%;
+    font-style: oblique;
+}
+
+.imgs__iconos {
+    max-width: 120px;
+    max-height: 120px;
+}
+
+
+.footer__li {
+    list-style: none;
+    list-style-position: outside;
+}
+
+.nav-item {
+    margin: 5%;
+    list-style-position: outside;
+}
+.navbar-brand{
+    margin-left: 25%;
+}
+
+.section__doctor {
+    margin-bottom: 5%;
+}
+
+
+footer {
+    padding: 1%;
+}
+
+
+.footer__titulo {
+    padding-top: 2%;
+}
+
+
+
+.section__nosotros {
+    padding: 8%;
+    background-color: #212529;
+}
+
+.nosotros__color {
+    color: white;
+}
+
+
+.img__dr {
+    border-radius: 40%;
+}
+
+.div__dr {
+    padding-top: 5%;
+}
+
+.botones__turnos {
+    margin: 5%;
+}
+
+.botones__turnos-header {
+    margin: 3%;
+}
+
+.mis__ul {
+    padding-left: 0rem;
+}
+
+.titulo__nosotros {
+    color: white;
+    margin-bottom: 5%;
+    font-style: oblique;
+}
+
+.alerta__footer {
+    padding: 2%;
+}
+
